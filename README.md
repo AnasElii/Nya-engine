@@ -16,7 +16,7 @@ Bitbucket migration of https://code.google.com/p/nya-engine/
 Pmd viewer supports Miku Miku Dance .pmd, .pmx models and .vmd animations,
 it also supports XNALara formats - .xps, .mesh, .mesh.ascii and .pose
 
-![NFT Marketplace](https://i.imgur.com/YttaPcE.png)
+![npl2](https://i.imgur.com/ygOXAAo.png)
 
 Complete source code is available for building on mac
 
